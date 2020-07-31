@@ -5209,7 +5209,8 @@ var Utils = Utils || {};
     'use strict';
 
     // var selectedGltfSampleModel = 'Drone';
-    var selectedGltfSampleModel = 'DamagedHelmet';
+   // var selectedGltfSampleModel = 'DamagedHelmet';
+   var selectedGltfSampleModel = 'ArcoDelTriunfo';
 
     var drawBoundingBox = false;
     var boundingBoxType = 'obb';
