@@ -5847,7 +5847,7 @@ var Utils = Utils || {};
     
     // 2.0
     // var gltfUrl = '../glTFs/glTF_version_2/Duck/glTF/Duck.gltf';
-    var gltfUrl = 'https://lordluxtartaro.github.io/Prueba3DViewerArcoTriunfo/Prueba3DViewerArcoTriunfo/DamagedHelmet.gltf';
+    var gltfUrl = 'https://lordluxtartaro.github.io/Prueba3DViewerArcoTriunfo/DamagedHelmet.gltf';
 
     var glTFLoader = new MinimalGLTFLoader.glTFLoader(gl);
 
