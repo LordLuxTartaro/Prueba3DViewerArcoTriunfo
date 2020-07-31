@@ -5209,8 +5209,7 @@ var Utils = Utils || {};
     'use strict';
 
     // var selectedGltfSampleModel = 'Drone';
-   // var selectedGltfSampleModel = 'DamagedHelmet';
-   var selectedGltfSampleModel = 'ArcoDelTriunfo';
+    var selectedGltfSampleModel = 'DamagedHelmet';
 
     var drawBoundingBox = false;
     var boundingBoxType = 'obb';
@@ -5848,8 +5847,7 @@ var Utils = Utils || {};
     
     // 2.0
     // var gltfUrl = '../glTFs/glTF_version_2/Duck/glTF/Duck.gltf';
-   // var gltfUrl = 'https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/DamagedHelmet/glTF/DamagedHelmet.gltf';
-    var gltfUrl = 'https://smartechapps.s3.eu-west-3.amazonaws.com/ModelosGLTF/scene.gltf';
+    var gltfUrl = 'https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/DamagedHelmet/glTF/DamagedHelmet.gltf';
 
     var glTFLoader = new MinimalGLTFLoader.glTFLoader(gl);
 
